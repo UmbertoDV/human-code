@@ -5,7 +5,6 @@
 > - Lista_Doppioni
 > - Lista_Bustina
 > - Lista_Album
-> - Carta_Rara
 
 > #### CLASSI:
 >
@@ -14,7 +13,7 @@
 
 > #### OGGETTI:
 >
-> - **CARTA:**
+> - **Carta_Rara:**
 >   - **RARITA'**: Rara
 
 ## LISTA DI AZIONI:
