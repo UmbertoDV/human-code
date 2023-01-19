@@ -29,4 +29,5 @@
       - Attaco la carta nella _Lista_Album_
     - **ALTRIMENTI**
       - Inserisco la carta nella _Lista_Doppioni_
+  - Tolgo la carta dalla _Lista_Bustina_
 - **FINE CICLO**
